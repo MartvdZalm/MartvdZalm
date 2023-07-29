@@ -53,18 +53,24 @@
         <br>Java
       </td>
       <td align="center" width="96">
-        <a href="#laravel">
-          <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="32" height="32" alt="Laravel" />
+        <a href="#ASM">
+          <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" width="32" height="32" alt="Assembly" />
         </a>
-        <br>Laravel
+        <br>Assembly
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <a href="#MySQL">
           <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="32" height="32" alt="MySQL" />
         </a>
         <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#laravel">
+          <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="32" height="32" alt="Laravel" />
+        </a>
+        <br>Laravel
       </td>
       <td align="center" width="96">
         <a href="#ubuntu" >
