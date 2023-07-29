@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="1242" height="698">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="1100" height="698">
 
 <h1 align="center">Hi 👋, I'm Mart van der Zalm</h1>
 - 📫 How to reach me **martvanderzalm@gmail.com**
