@@ -23,10 +23,10 @@
         <br>HTML5
       </td>
       <td align="center" width="96">
-        <a href="#css3">
+        <a href="#css">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="32" height="32" alt="Css3" />
         </a>
-        <br>CSS3
+        <br>CSS
       </td>
       <td align="center" width="96">
         <a href="#js">
