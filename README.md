@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Assembly, C++, Python**
 - 💬 Available for helping with projects and providing assistance.
 - 🌟 Eager to learn and gain more experience in programming.
-- 🧑🏻‍💻 17 years old, in love with programming and cars.
+- 💻 17 years old, in love with programming and cars.
 - 🎧 Discord: MartvdZalm#9051
 - 📫 How to reach me: martvanderzalm@gmail.com
 
