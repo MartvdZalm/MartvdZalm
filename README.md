@@ -12,7 +12,7 @@
 - 🌟 Eager to learn and gain more experience in programming.
 - 💻 17 years old, in love with programming and cars.
 - 🎧 Discord: MartvdZalm#9051
-- 📫 How to reach me: martvanderzalm@gmail.com
+- 📫 Email: martvanderzalm@gmail.com
 
 <p align="center">
   <h2>Languages and Tools</h2>
