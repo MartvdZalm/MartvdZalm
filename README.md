@@ -7,7 +7,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="1000" height="550">
 
 ## Information
-- 🌱 I’m currently learning **Assembly, Python**
+- 🌱 I’m currently learning **Python**
 - 💬 Available for helping with projects and providing assistance.
 - 🌟 Eager to learn and gain more experience in programming.
 - 💻 17 years old, in love with programming and cars.
