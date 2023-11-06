@@ -26,7 +26,7 @@
       </td>
       <td align="center" width="96">
         <a href="#css">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="32" height="32" alt="Css3" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="32" height="32" alt="Css" />
         </a>
         <br>CSS
       </td>
@@ -56,7 +56,7 @@
       </td>
       <td align="center" width="96">
         <a href="#ASM">
-          <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" width="32" height="32" alt="Assembly" />
+          <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" width="32" height="32" alt="x86 Assembly" />
         </a>
         <br>Assembly
       </td>
