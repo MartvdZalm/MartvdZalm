@@ -19,30 +19,6 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#html">
-          <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="32" height="32" alt="Html5" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <a href="#css">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="32" height="32" alt="Css" />
-        </a>
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <a href="#js">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="32" height="32" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#csharp">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
-        </a>
-        <br>C#
-      </td>
-      <td align="center" width="96">
         <a href="#php" >
           <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="32" height="32" alt="PHP" />
         </a>
@@ -55,10 +31,16 @@
         <br>Java
       </td>
       <td align="center" width="96">
+        <a href="#cpp" >
+          <img src="https://wallpapercave.com/wp/wp4009914.png" width="32" height="32" alt="C++" />
+        </a>
+        <br>C++
+      </td>
+      <td align="center" width="96">
         <a href="#ASM">
           <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" width="32" height="32" alt="x86 Assembly" />
         </a>
-        <br>x86 Assembly
+        <br>x86 ASM
       </td>
       <td align="center" width="96">
         <a href="#MySQL">
@@ -66,8 +48,18 @@
         </a>
         <br>MySQL
       </td>
-    </tr>
-    <tr>
+      <td align="center" width="96">
+        <a href="#git" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="32" height="32" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#Docker">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32" height="32" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
       <td align="center" width="96">
         <a href="#laravel">
           <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="32" height="32" alt="Laravel" />
@@ -79,24 +71,6 @@
           <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="32" height="32" alt="Ubuntu" />
         </a>
         <br>Ubuntu
-      </td>
-      <td align="center" width="96">
-        <a href="#git" >
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="32" height="32" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <a href="#vscode">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code" />
-        </a>
-        <br>VS Code
-      </td>
-      <td align="center" width="96">
-        <a href="#Docker">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32" height="32" alt="Docker" />
-        </a>
-        <br>Docker
       </td>
     </tr>
   </table>
