@@ -58,7 +58,7 @@
         <a href="#ASM">
           <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" width="32" height="32" alt="x86 Assembly" />
         </a>
-        <br>Assembly
+        <br>x86 Assembly
       </td>
       <td align="center" width="96">
         <a href="#MySQL">
