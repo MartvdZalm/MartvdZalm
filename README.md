@@ -7,7 +7,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/8823acfb9adb2a7fb529c2f0d0b5b23846244b2368b177b1799a5e72e0c05ac5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62642f35362f35642f62643536356463633061353536616464306230613065643662323664363836652e676966" width="1000" height="350">
 
 ## Information
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **Assembly** and **C++**
 - 💬 Available for helping with projects and providing assistance.
 - 🌟 Eager to learn and gain more experience in programming.
 - 💻 17 years old, in love with programming and cars.
