@@ -46,6 +46,14 @@
         <br>MySQL
       </td>
       <td align="center" width="96">
+        <a href="#Vue">
+          <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/vue-9-logo.png" width="42" height="32" alt="Vue" />
+        </a>
+        <br>Vue
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <a href="#git" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="32" height="32" alt="Git" />
         </a>
