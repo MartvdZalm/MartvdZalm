@@ -40,12 +40,6 @@
         <br>x86 ASM
       </td>
       <td align="center" width="96">
-        <a href="#MySQL">
-          <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="32" height="32" alt="MySQL" />
-        </a>
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
         <a href="#Vue">
           <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/vue-9-logo.png" width="42" height="32" alt="Vue" />
         </a>
