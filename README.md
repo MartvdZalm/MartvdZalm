@@ -4,11 +4,8 @@
 
 ## Information
 - 🌱 I’m currently learning **Assembly** and **C++**
-- 💬 Available for helping with projects and providing assistance.
-- 🌟 Eager to learn and gain more experience in programming.
 - 💻 17 years old, in love with programming and cars.
 - 📻 My favourite artist is Hello Meteor https://www.hellometeor.com
-- 🎧 Discord: MartvdZalm#9051
 - 📫 Email: martvanderzalm@gmail.com
 
 <p align="center">
