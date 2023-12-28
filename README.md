@@ -1,11 +1,7 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Back-end+Developer;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-</p>
-
-## Information
-- 🌱 I’m currently learning **Assembly** and **C++**
+## Hello I'm Mart 
+- 🌱 Currently learning **Assembly** and **C++**
 - 💻 17 years old, in love with programming and cars.
-- 📻 My favourite artist is Hello Meteor https://www.hellometeor.com
+- 📻 Favourite artist is Hello Meteor https://www.hellometeor.com
 - 📫 Email: martvanderzalm@gmail.com
 
 <p align="center">
