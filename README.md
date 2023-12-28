@@ -77,8 +77,8 @@
 
 <h2>GitHub Stats</h2>
 
-| GitHub Stats | GitHub Streak | Top Languages |
-|--------------|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martvdzalm&&show_icons=true&count_private=true&theme=github_dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martvdzalm&theme=blueberry_duo&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martvdzalm&layout=compact&theme=github_dark) |
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martvdzalm&&show_icons=true&count_private=true&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martvdzalm&layout=compact&theme=github_dark) |
 
 
