@@ -1,4 +1,4 @@
-## Hello I'm Mart 
+# Hello I'm Mart 
 - 🌱 Currently learning **Assembly** and **C++**
 - 💻 17 years old, in love with programming and cars.
 - 📻 Favourite artist is Hello Meteor https://www.hellometeor.com
