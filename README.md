@@ -73,5 +73,3 @@
 | GitHub Stats | Top Languages |
 |--------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martvdzalm&&show_icons=true&count_private=true&theme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martvdzalm&layout=compact&theme=github_dark) |
-
-
