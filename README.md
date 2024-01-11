@@ -5,7 +5,7 @@
 </h1>
 
 - ⚔️ Currently developing **Knight**
-- 🌱 Learning **Assembly** and **C++**
+- 🌱 Learning **Assembly**
 - 💻 17 years old, in love with programming and cars.
 - 📻 Favourite artist is Hello Meteor https://www.hellometeor.com
 - 📫 Email: martvanderzalm@gmail.com
