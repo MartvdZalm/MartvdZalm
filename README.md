@@ -6,7 +6,6 @@
 
 - 🗾 Vacations: Japan 1 June - 30 June and Greece 17 July - 27 July
 - ⚔️ Currently developing **Knight**
-- 🌱 Learning **Assembly**
 - 💻 18 years old, in love with programming and cars.
 - 📻 Favourite artist is Hello Meteor https://www.hellometeor.com
 - 📫 Email: martvanderzalm@gmail.com
