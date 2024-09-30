@@ -8,3 +8,6 @@
 - 💻 18 years old, in love with programming and cars.
 - 📻 Favourite artist is Hello Meteor https://www.hellometeor.com
 - 📫 Email: martvanderzalm@gmail.com
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartvdZalm&show_icons=true&theme=dark&locale=en&layout=compact" alt="MartvdZalm" />
