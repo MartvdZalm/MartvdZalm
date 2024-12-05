@@ -1,5 +1,5 @@
 <h1 id="title-with-image">
-  <img src="https://wereldvlaggen.nl/wp-content/uploads/2020/10/VOC-vereenigde-oostindische-compagnie-vlag-oranje-wit-blauw.jpg" width="120" alt="Prince's Flag">
+<!--   <img src="https://wereldvlaggen.nl/wp-content/uploads/2020/10/VOC-vereenigde-oostindische-compagnie-vlag-oranje-wit-blauw.jpg" width="120" alt="Prince's Flag"> -->
   Hello I'm Mart
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Naval_ensign_of_the_Empire_of_Japan.svg" width="50" height="32" alt="Rising Sun Flag"> -->
 </h1>
