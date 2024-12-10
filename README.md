@@ -10,5 +10,13 @@
 - 📫 Email: martvanderzalm@gmail.com
 - 🌐 Personal Website: Currently under active development!
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/MartvdZalm"
+  width="600"
+  height="300"
+/>
+</a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartvdZalm&show_icons=true&theme=dark&locale=en&layout=compact" alt="MartvdZalm" />
+
