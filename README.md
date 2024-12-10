@@ -1,6 +1,6 @@
 <h1 id="title-with-image">
-  <img src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=654274140321728596" width="500" height="150" />
-  <img src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=654272453645300804" width="500" height="150" />  
+  <img src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=654274140321728596" width="300" height="150" />
+  <img src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=654272453645300804" width="300" height="150" />  
   
   Hello I'm Mart
 </a>
