@@ -19,5 +19,5 @@ I'm a passionate **Software Engineer** constantly working to improve my skills i
 ---
 
 ## 🤝 Let's Collaborate!  
-I’m open to collaborating on exciting projects or brainstorming ideas. Feel free to reach out to me:  
+I’m open to collaborating on projects. Feel free to reach out to me:  
 - 📫 **Email**: martvanderzalm@gmail.com
