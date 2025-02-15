@@ -1,6 +1,6 @@
 # Hello, I'm Mart! 👋  
 
-I'm a passionate **Software Engineer** constantly working to improve my skills in all aspects of software development. Currently, I'm focused on building my personal website and some other projects. I started programming at a young age and have been on the grind ever since, always learning and growing as a developer. Currently, I'm *"farming each degree"* 🌟 working hard to level up my knowledge and skills.
+I'm a passionate **Software Engineer** constantly working to improve my skills in all aspects of software development. Currently, I'm focused on building my personal website and some other projects. I started programming at a young age and have been on the grind ever since, always learning and growing as a developer. Currently, I'm *"farming degrees"* 🌟 working hard to level up my knowledge and skills.
 
 ---
 
