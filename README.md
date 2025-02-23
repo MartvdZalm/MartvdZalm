@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** constantly working to improve my skills i
 
 ## 🚀 What I’m Working On  
 - 🌐 **Personal Website**: Under active development.  
-- 💻 **Side Projects**: Programming Language and OpenGL Rendering Engine.   
+- 💻 **Side Projects**: Programming Language and OpenGL Game.   
 - 📚 **Continuous Learning**: Enhancing my skills in everything.
 
 ---
