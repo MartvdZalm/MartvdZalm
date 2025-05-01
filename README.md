@@ -1,6 +1,6 @@
 # Hello, I'm Mart! 👋  
 
-I'm a passionate **Software Engineer** constantly working to improve my skills in all aspects of software development. Currently, I'm focused on building my personal website and some other projects. I started programming at a young age and have been on the grind ever since, always learning and growing as a developer. Currently, I'm *"farming degrees"* 🌟 working hard to level up my knowledge and skills.
+I'm a passionate **Software Engineer** constantly working to improve my skills in all aspects of software development. I started programming at a young age and have been on the grind ever since, always learning and growing as a developer. Currently, I'm working hard to level up my knowledge and skills.
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MartvdZalm&utm_content=line">
   <img src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=654274140321728596"
