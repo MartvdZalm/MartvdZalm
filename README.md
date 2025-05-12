@@ -12,8 +12,8 @@ I'm a passionate **Software Engineer** constantly working to improve my skills i
 ---
 
 ## 🚀 What I’m Working On  
-- 🌐 **Personal Website**: [Under active development](https://martvdzalm.github.io/Windows95/).  
-- 💻 **Projects**: Knight, The Last Ronin and Personel Website.   
+- 🌐 **Personal Website**: [Mart van der Zalm](https://martvdzalm.github.io/Windows95/).  
+- 💻 **Projects**: Knight, The Last Ronin, Personel Website and Scribe.   
 - 📚 **Continuous Learning**: Enhancing my skills in everything.
 
 
