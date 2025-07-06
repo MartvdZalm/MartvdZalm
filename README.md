@@ -1,6 +1,6 @@
 # Hello, I'm Mart! 👋  
-
-I'm a passionate **Software Engineer** constantly working to improve my skills in all aspects of software development. I started programming at a young age and have been on the grind ever since, always learning and growing as a developer. Currently, I'm working hard to level up my knowledge and skills.
+I'm a Software Engineer who's been obsessed with programming since I was a kid. Whether it's personal projects or just coding for fun, I'm always grinding, learning, and leveling up my skills.
+Want to collaborate? I'm always down to connect for interesting projects!
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MartvdZalm&utm_content=line">
   <img src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=654274140321728596"
@@ -11,37 +11,6 @@ I'm a passionate **Software Engineer** constantly working to improve my skills i
 
 ---
 
-## 🚀 What I’m Working On  
-- 🌐 **Personal Website**: [Mart van der Zalm](https://martvdzalm.github.io/Windows95/).  
-- 💻 **Projects**: Knight, The Last Ronin, Personel Website and Scribe.   
-- 📚 **Continuous Learning**: Enhancing my skills in everything.
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MartvdZalm&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=654271291357526921"
-    width="600"
-    height="120"
-  />
-</a>
-
----
-
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartvdZalm&layout=compact&theme=radical)
-![](https://count.getloli.com/get/@MartvdZalm.github.readme)
 
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MartvdZalm&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=659050075871655729"
-    width="600"
-    height="120"
-  />
-</a>
-  
----
-
-## 🤝 Let's Collaborate!  
-I’m open to collaborating on projects. Feel free to reach out to me:  
-- 📫 **Email**: martvanderzalm@gmail.com
