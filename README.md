@@ -8,6 +8,15 @@ I'm obsessed with programming. Whether it's personal projects or just coding for
   />
 </a>
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MartvdZalm&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/MartvdZalm?pet-id=756518902987656559"
+    width="600"
+    height="120"
+  />
+</a>
+
 ---
 
 ## 📊 GitHub Stats  
